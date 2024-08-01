@@ -1,0 +1,5 @@
+npm init react-app etec-filmes (Comando para criar uma aplicação react. O "etec-filmes" é o nome do app).
+
+nmp start (Comando para iniciar o progeto).
+
+fragmentos <></> (Funciona como um elemento pai)
