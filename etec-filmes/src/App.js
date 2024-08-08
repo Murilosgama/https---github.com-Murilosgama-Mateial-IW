@@ -1,4 +1,5 @@
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -6,6 +7,7 @@ function App() {
       <Header/>
       <h1>ETEC MCM</h1>
       <p>Teste de react</p>
+      <Footer/>
     </>
   );
 }
